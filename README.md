@@ -18,6 +18,9 @@ The goal is to understand customer purchasing patterns, product performance, and
 
 ## 1. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 This file contains:
+-Data import
+
+
 
 
 
