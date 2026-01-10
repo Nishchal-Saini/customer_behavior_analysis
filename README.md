@@ -23,6 +23,12 @@ This file contains:
 - Data cleaning
 - connection to SQL Database
 
+## 2. Load the data form Python notebook into MySQL
+- Create a database in SQL.
+- Run Python code to load data into SQL database
+- Open customer_behavior_sql_queries.sql
+- Answer Business Questions using SQL Queries
+
 
 
 
