@@ -33,6 +33,9 @@ This file contains:
 - Open customer_behavior_analysis.pbix
 - Create interactive dashboard in Power BI
 
+## 4. Create project report
+- <a href = "">Report<a>
+
 
 
 
