@@ -13,4 +13,8 @@ The goal is to understand customer purchasing patterns, product performance, and
 ~ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. prepare a presentation that visually communicates insights and actionable
   recommendations to stakeholders.
 
+## Dataset
+- <a href = "https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/customer_shopping_behavior.csv">Dataset<a>
+
+### 1. Open
 
