@@ -33,10 +33,13 @@ This file contains:
 - Open customer_behavior_analysis.pbix
 - Create interactive dashboard in Power BI
 
-## 4. Create project report
-- <a href = "https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/Customer%20Behavior%20Analysis%20Report.pdf">Report<a>
+## 4. Create project report and presentation
+- Create project report
+-  Report <a href = "https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/Customer%20Behavior%20Analysis%20Report.pdf">Report<a>
+- Build presentation deck using gamma AI
+- Presentation <a href ="https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/Customer-Shopping-Behavior-Analysis-Presentation.pdf">Presentation<a>
 
-
+ 
 
 
 
