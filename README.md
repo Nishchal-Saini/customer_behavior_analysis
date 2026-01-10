@@ -29,6 +29,10 @@ This file contains:
 - Open customer_behavior_sql_queries.sql
 - Answer Business Questions using SQL Queries
 
+## 3. Connect the SQL Dataset to Power BI
+- Open customer_behavior_analysis.pbix
+- Create interactive dashboard in Power BI
+
 
 
 
