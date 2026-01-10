@@ -17,10 +17,10 @@ The goal is to understand customer purchasing patterns, product performance, and
 - <a href = "https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/customer_shopping_behavior.csv">Dataset<a>
 
 ### 1. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
-      This file contains:
-        -Data Import
-        -Data Exploration
-        -Data cleaning
-        -Connection to SQL Database
+This file contains:
+-Data Import
+-Data Exploration
+-Data cleaning
+-Connection to SQL Database
         
 
