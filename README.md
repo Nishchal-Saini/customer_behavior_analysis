@@ -44,6 +44,7 @@ This file contains:
 -  <a href ="https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/Customer-Shopping-Behavior-Analysis-Presentation.pdf">Presentation<a>
 
 ## 5.Business Recommendations 
+- Boost Subscriptons: Promote exclusive benefits for subscribers
 
 
 
