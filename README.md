@@ -44,7 +44,12 @@ This file contains:
 -  <a href ="https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/Customer-Shopping-Behavior-Analysis-Presentation.pdf">Presentation<a>
 
 ## 5.Business Recommendations 
-- Boost Subscriptons: Promote exclusive benefits for subscribers
+- Boost Subscriptons: Promote exclusive benefits for subscribers.
+- Customer Loyalty Programs: Reward repeat buyers to move them into the "Loyal" segment.
+- Review Discount Policy: Balance sals boots with margin control.
+- Product Positioning: Highlight top_rated and best_selling product in campaigns.
+- Targeted Marketing: Focus efforts on high- revenue age groups and express_shipping users.
+   
 
 
 
