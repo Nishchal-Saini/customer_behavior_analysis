@@ -34,7 +34,9 @@ This file contains:
 - Create interactive dashboard in Power BI
 
 ## 4. Create project report
-- <a href = "">Report<a>
+- <a href = "https://github.com/Nishchal-Saini/customer_behavior_analysis/blob/main/Customer%20Behavior%20Analysis%20Report.pdf">Report<a>
+
+
 
 
 
